@@ -1,9 +1,0 @@
-npx create-react-app --template typescript .
-
-
-(details) => !details - очень крутая запись
-
-
-axios - упрощает fetch
-
-trim() - удалить пробелы справа и слева
